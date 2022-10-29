@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all-demo.iml" filepath="$PROJECT_DIR$/all-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apikylin/apikylin.iml" filepath="$PROJECT_DIR$/apikylin/apikylin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apikylin2/apikylin2.iml" filepath="$PROJECT_DIR$/apikylin2/apikylin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apimysql/apimysql.iml" filepath="$PROJECT_DIR$/apimysql/apimysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myflink/myflink.iml" filepath="$PROJECT_DIR$/myflink/myflink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspark/myspark.iml" filepath="$PROJECT_DIR$/myspark/myspark.iml" />
+    </modules>
+  </component>
+</project>

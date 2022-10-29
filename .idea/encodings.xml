@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/apikylin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apikylin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apikylin2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apikylin2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apimysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apimysql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myspark/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
